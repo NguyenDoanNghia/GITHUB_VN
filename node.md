@@ -23,3 +23,9 @@ remote
 -- để thoát khi bấm git comit khi conflict thì bấm :q
 - để đẩy tất cả các file lên github thì có 2 kiểu 1 là local(bao gồm tất cả folder images hay public in project) ,2 là remote sẽ ngược lại tất cả dữ liệu không nằm trên máy tính của chúng ta
 - git push
+- git remote add origin(repo url)
+- git push origin (branch name)
+- git clone (repo url)
+- git fetch origin
+- git checkout -b (branch name ) origin/branch new
+

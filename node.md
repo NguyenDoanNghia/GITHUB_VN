@@ -14,3 +14,5 @@ Repository(Repo)
 - git checkout master(quay trở lại git checkout mà đã xóa)
 - git branch 
 - git checkout -b {branch name}
+- git merge {branch name} (kết hợp 2 code lại)
+- git branch -d {branch name} (xóa branch)
